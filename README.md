@@ -1,5 +1,5 @@
 
-# VideoChatApp using React, socket.io, Node.js
+# VideoChatApp using Next.js, Tailwind CSS, Socket.io, Prisma, PostgreSQL and Express.
 
 ## Installation
 
